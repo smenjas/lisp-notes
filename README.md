@@ -18,8 +18,6 @@ My notes on the [Lisp programming language](https://en.wikipedia.org/wiki/Lisp_%
 - [Wikipedia: Lisp](https://en.wikipedia.org/wiki/Lisp_%28programming_language%29)
 - [Wikipedia: Common Lisp](https://en.wikipedia.org/wiki/Common_Lisp)
 
----
-
 ## [Paul Graham](http://www.paulgraham.com)
 - [Lisp Essays](http://www.paulgraham.com/lisp.html)
 - [On Lisp](http://www.paulgraham.com/onlisp.html)
