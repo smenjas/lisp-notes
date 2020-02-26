@@ -1,4 +1,4 @@
-# Swift Notes
+# Lisp Notes
 My notes on the [Lisp programming language](https://en.wikipedia.org/wiki/Lisp_%28programming_language%29).
 
 - [awesome-cl](https://awesome-cl.com): A curated list of Common Lisp libraries.
